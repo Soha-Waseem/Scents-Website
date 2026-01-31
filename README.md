@@ -1,21 +1,35 @@
-Scentsational – Women Scents Website
-Project Overview
+# Scentsational – Women Scents Website 
 
-Scentsational is a responsive front-end website designed to showcase luxury women fragrances. The project uses HTML, CSS, and Bootstrap to deliver an elegant and user-friendly browsing experience.
+A responsive front-end website showcasing **luxury women fragrances**.  
+Built using **HTML, CSS, and Bootstrap** for an elegant and user-friendly browsing experience.
 
-Technologies Used
-HTML
-Bootstrap 
+---
 
-Features
-Responsive design
-Image carousel
-Product cards with prices
-Add-to-cart toast notifications
-About Us & Contact Us pages
+## Project Overview
 
-How to Run
-Open index.html in any browser or deploy using GitHub Pages.
+Scentsational is designed to display premium women's scents with a clean, modern interface.  
+Users can browse products, view prices, and navigate through different pages with ease.  
+The website includes a home page, about us page, contact page, and product listings.
 
-Note
-This project is developed for academic purposes.
+---
+
+## Technologies Used
+
+- **HTML** – for page structure  
+- **CSS** – for styling  
+- **Bootstrap** – for responsive layout and components  
+
+---
+
+## Features
+
+- Fully **responsive design** for desktop, tablet, and mobile  
+- **Image carousel** to showcase featured fragrances  
+- **Product cards** with prices  
+- **Add-to-cart toast notifications**  
+- **About Us** and **Contact Us** pages  
+
+---
+
+## How to Run
+Open index.html in any web browser
